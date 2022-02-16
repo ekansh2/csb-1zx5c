@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://ekansh2.github.io/csb-1zx5c/static/css/main.ab05efac.chunk.css",
+    "main.js": "https://ekansh2.github.io/csb-1zx5c/static/js/main.827423b6.chunk.js",
+    "main.js.map": "https://ekansh2.github.io/csb-1zx5c/static/js/main.827423b6.chunk.js.map",
+    "runtime-main.js": "https://ekansh2.github.io/csb-1zx5c/static/js/runtime-main.feaf6f41.js",
+    "runtime-main.js.map": "https://ekansh2.github.io/csb-1zx5c/static/js/runtime-main.feaf6f41.js.map",
+    "static/js/2.10cb6a2a.chunk.js": "https://ekansh2.github.io/csb-1zx5c/static/js/2.10cb6a2a.chunk.js",
+    "static/js/2.10cb6a2a.chunk.js.map": "https://ekansh2.github.io/csb-1zx5c/static/js/2.10cb6a2a.chunk.js.map",
+    "index.html": "https://ekansh2.github.io/csb-1zx5c/index.html",
+    "static/css/main.ab05efac.chunk.css.map": "https://ekansh2.github.io/csb-1zx5c/static/css/main.ab05efac.chunk.css.map",
+    "static/js/2.10cb6a2a.chunk.js.LICENSE.txt": "https://ekansh2.github.io/csb-1zx5c/static/js/2.10cb6a2a.chunk.js.LICENSE.txt",
+    "static/media/expensive.e3f1941d.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/expensive.e3f1941d.jpg",
+    "static/media/margherita.5f595917.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/margherita.5f595917.jpg",
+    "static/media/multiplePizzas.09ae330a.jpeg": "https://ekansh2.github.io/csb-1zx5c/static/media/multiplePizzas.09ae330a.jpeg",
+    "static/media/pedrotechspecial.cea72b5d.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/pedrotechspecial.cea72b5d.jpg",
+    "static/media/pepperoni.8a6288ad.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/pepperoni.8a6288ad.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.8e592f45.jpeg": "https://ekansh2.github.io/csb-1zx5c/static/media/pizza.8e592f45.jpeg",
+    "static/media/pizzaLeft.0ae9bf64.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/pizzaLeft.0ae9bf64.jpg",
+    "static/media/pizzaLogo.52109c24.png": "https://ekansh2.github.io/csb-1zx5c/static/media/pizzaLogo.52109c24.png",
+    "static/media/vegan.1b5bd91d.jpg": "https://ekansh2.github.io/csb-1zx5c/static/media/vegan.1b5bd91d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feaf6f41.js",
+    "static/js/2.10cb6a2a.chunk.js",
+    "static/css/main.ab05efac.chunk.css",
+    "static/js/main.827423b6.chunk.js"
+  ]
+}
